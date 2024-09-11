@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @bayleaflet
-- 🌱 I’m currently learning mySQL, PowerFX, and best practices in Python.
-- 📫 How to reach me: pending
+- 🌱 I’m currently learning DAX, and am meanwhile improving my scripting skills
+- I am doing exciting bioinformatics research on whiptails!
+- 📫 How to reach me: Find me on LinkedIn!
 
 <!---
 bayleaflet/bayleaflet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
